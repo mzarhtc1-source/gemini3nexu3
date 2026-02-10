@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Multi-Engine",
+  "description": "Multilingual powerhouse combining Gemini 3 Pro, 4K Imaging, and Cinematic Veo video synthesis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
